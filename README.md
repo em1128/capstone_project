@@ -13,6 +13,8 @@ opencv-4.7.0 , open3D 필요
 --- 
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11742704
 
+코드 내용은 대부분 main1005.cpp에 있고, dtw는 dtw1005.h 참조.
+
 요약 : 
 
 Kinect로 사람을 관측해서 관절의 좌표를 구하고, 
