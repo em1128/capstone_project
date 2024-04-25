@@ -1,0 +1,14 @@
+새로 추가한 변수
+vsize_2D : 2D joint의 선언을 위한 size
+p_set_2D : 2D joint를 Mat으로 저장
+cpColorMat : colorMat의 copy 이미지
+grayMat : colorMat의 gray 이미지
+fs : 파일 저장을 위한 filestream
+
+1. esc키로 종료
+2. copy 이미지 추가 : cpColorMat
+3. (joint3D, joint2D, grayImage)을 xml파일로 저장
+joint3D : (기존)p_set
+joint2D : (신규)p_set_2D
+grayImage : (신규)grayMat
+

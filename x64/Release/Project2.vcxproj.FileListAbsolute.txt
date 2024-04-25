@@ -1,0 +1,3 @@
+C:\Users\mingyu\source\repos\Project2\x64\Release\dnn_model_2_0_lite_op11.onnx
+C:\Users\mingyu\source\repos\Project2\x64\Release\dnn_model_2_0_op11.onnx
+C:\Users\mingyu\source\repos\Project2\Project2\x64\Release\Project2.vcxproj.CopyComplete
